@@ -1,0 +1,27 @@
+{
+  "name": "@react-native-toastify/snackbar",
+  "version": "2.0.2",
+  "description": "react-native-toastify/snackbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snackbar",
+    "alert",
+    "tostify",
+    "ios",
+    "android",
+    "react-native"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.2",
+    "react-native-event-listeners": "^1.0.7"
+  },
+  "devDependencies": {
+    "react-native-event-listeners": "^1.0.7"
+  }
+}
